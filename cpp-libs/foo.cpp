@@ -8,5 +8,5 @@
 using namespace std;
 
 void foo::print() {
-    cout << "Foo print" << endl;
+    cout << "Foo print V2" << endl;
 }
